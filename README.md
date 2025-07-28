@@ -2,8 +2,10 @@
 
 A clean and fun Sudoku puzzle game built in Java with a Swing-based GUI.
 
+---
 
-🎮 Features
+## 🎮 Features
+
 9x9 grid Sudoku play
 
 Real-time input validation
@@ -12,9 +14,9 @@ Random puzzle generation
 
 Reset and restart options
 
+---
 
-
-📁 File Overview
+## 📁 File Overview
 
 SudokuFrame.java – Main game window and launcher
 
